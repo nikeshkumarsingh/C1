@@ -1,0 +1,1 @@
+//db.user.insertMany([{"first_name":"nikesh","last_name":"singh"},{"first_name":"sai","last_name":"joshi"},{"first_name":"sudhir","last_name":"bhargav"},{"first_name":"virat","last_name":"kohli"},{"first_name":"virat","last_name":"chavan"}])
